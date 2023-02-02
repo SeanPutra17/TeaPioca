@@ -1,0 +1,31 @@
+table{
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse : collapse;
+}
+
+ul{
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+}
+
+img{
+    size-adjust: auto;
+}
+
+.header{
+    
+}
+
+left-section{
+
+}
+
+middle-section{
+
+}
+
+right-section{
+
+}

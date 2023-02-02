@@ -1,0 +1,30 @@
+.logo{
+    width: 50px;
+    height: 50px;
+}
+
+.header{
+    height: 55px;
+
+    display: flex;
+    justify-content: space-between;
+
+    border-bottom : 0px;
+}
+
+.link{
+
+}
+
+.left-section{
+    align-items: center;
+}
+
+.middle-section{
+    align-items: center;
+    margin: 15px;
+}
+
+.right-section{
+    align-items: center;
+}
