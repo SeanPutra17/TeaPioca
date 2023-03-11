@@ -1,0 +1,29 @@
+img{
+  width: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+.boba1{
+  width: 150px;
+  height: 150px;
+  object-position: center;
+  margin-right: 20px;
+}
+
+.boba2{
+  width: 150px;
+  height: 150px;
+  object-position: right;
+}
+
+.boba3{
+  display: flex;
+  margin-left: 20px;
+}
+
+.line1{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
